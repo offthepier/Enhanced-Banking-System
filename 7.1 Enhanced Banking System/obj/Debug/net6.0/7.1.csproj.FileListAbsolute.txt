@@ -1,0 +1,15 @@
+/Users/dayashankar/Documents/OOP/7.1/bin/Debug/net6.0/7.1
+/Users/dayashankar/Documents/OOP/7.1/bin/Debug/net6.0/7.1.deps.json
+/Users/dayashankar/Documents/OOP/7.1/bin/Debug/net6.0/7.1.runtimeconfig.json
+/Users/dayashankar/Documents/OOP/7.1/bin/Debug/net6.0/7.1.dll
+/Users/dayashankar/Documents/OOP/7.1/bin/Debug/net6.0/7.1.pdb
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.csproj.AssemblyReference.cache
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.AssemblyInfoInputs.cache
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.AssemblyInfo.cs
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.csproj.CoreCompileInputs.cache
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.dll
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/refint/7.1.dll
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.pdb
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/7.1.genruntimeconfig.cache
+/Users/dayashankar/Documents/OOP/7.1/obj/Debug/net6.0/ref/7.1.dll
